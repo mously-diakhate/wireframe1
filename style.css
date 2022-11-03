@@ -1,0 +1,89 @@
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.div{
+    background-color: blue;
+    width: 40%;
+    height: 55vh;
+    margin-left: 30%;
+    margin-top: 20vh;
+}
+.div1{
+    text-align: center;
+
+}
+.div1 form{
+    margin-top: 5vh;
+}
+.butt{
+    text-align: center;
+    margin-top: 9vh;
+}
+.center{
+    text-align: center;
+}
+.form{
+    margin-left: 10%;
+}
+nav{
+    background-color: blue;
+}
+.title{
+    margin-left: 5%;
+}
+.marge{
+    margin-left: 5%;
+}
+#module{
+    display: flex;
+    flex-direction: column;
+    width: 2%;
+    height: 2vh;
+    margin-left: 10%;
+}
+.but2{
+    margin-left: 40%;
+}
+table tr td{
+    border: 1px solid black;
+    height: 5VH;
+    width: 20%;
+    border-collapse: collapse;
+
+}
+#Niveau{
+    margin-left: 4%;
+}
+.tab{
+    width: 50%;
+    margin-left: 20%;
+}
+#date{
+    width: 5%;
+}
+#lab{
+    margin-left: 10%;
+}
+#gr{
+    margin-left: 12%;
+}
+#nm{
+    margin-left: 4%;
+}
+form input{
+    width: 60%;
+}
+.table{
+    margin-left: 20%;
+    margin-top: 10vh;
+}
+form textarea{
+    margin-left: 15%;
+}
